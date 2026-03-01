@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #000;
+    color: #e6f7ff;
+}
+
+/* Banner */
+.banner-img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+/* Navigation */
+nav {
+    background: #001a26;
+    padding: 15px;
+    text-align: center;
+}
+
+nav a {
+    color: #00c3ff;
+    margin: 0 20px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+/* Buttons */
+.discord-btn {
+    display: inline-block;
+    background: #5865F2;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+}
+
+/* Sections */
+section {
+    padding: 40px;
+    max-width: 900px;
+    margin: auto;
+}
+
+footer {
+    background: #001a26;
+    padding: 20px;
+    text-align: center;
+    color: #88cce6;
+}
