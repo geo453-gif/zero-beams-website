@@ -1,11 +1,14 @@
-# Zero Beams Website
+# Zero Beams Landing Page
 
-This is the official website for the Zero Beams Discord community.
+A simple one-page site with clear links for both the Zero Beams Discord invite and the website.
 
-## Structure
-- index.html
-- css/style.css
-- assets/banner.png (placeholder)
+## Files
+- `index.html`
+- `css/style.css`
+
+## Links configured
+- Discord invite: `https://discord.gg/zte8xYBVK8`
+- Website: `https://luxu-sites-v2.netlify.app/`
 
 ## Hosting
-This site is designed to be hosted using **Netlify** or **GitHub Pages**.
+Deploy on Netlify or GitHub Pages.
