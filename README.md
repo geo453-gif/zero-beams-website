@@ -1,11 +1,10 @@
-# Zero Beams Website
+# Frost Beams Website
 
-This is the official website for the Zero Beams Discord community.
+Official landing page for the Frost Beams Discord community and its Vouch Bot dashboard concept.
 
 ## Structure
-- index.html
-- css/style.css
-- assets/banner.png (placeholder)
+- `index.html` — main page with Frost Beams branding, dashboard sections, and bot token setup block
+- `css/style.css` — visual styling for hero, cards, table-based dashboard, and token form styling
 
 ## Hosting
-This site is designed to be hosted using **Netlify** or **GitHub Pages**.
+This static site can be hosted on Netlify, GitHub Pages, or any static web server.
