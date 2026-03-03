@@ -1,9 +1,9 @@
 # Frost Beams Website
 
-Official landing page for the Frost Beams Discord community and its Vouch Bot dashboard concept.
+Official landing page for the Frost Beams Discord server, focused on collecting vouches for me from server members.
 
 ## Structure
-- `index.html` — main page with Frost Beams branding, dashboard sections, and bot token setup block
+- `index.html` — main page with Frost Beams branding, vouch dashboard for me, and bot token setup block
 - `css/style.css` — visual styling for hero, cards, table-based dashboard, and token form styling
 
 ## Hosting
